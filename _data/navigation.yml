@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+
+- name: um mig
+  link: /ummig.html
+ 
+- name: frettir
+  link: /blog.html
+
+- name: starfsfolk
+  link: /staff.html

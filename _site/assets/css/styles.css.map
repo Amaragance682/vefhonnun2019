@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import 'main';",
+		"h1 {\r\n    color: blue;\r\n}\r\n.current{\r\n    color: red;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,EAAE,CAAC,EACC,KAAK,EAAE,IAAI,GACd;;AACD,AAAA,QAAQ,CAAA,EACJ,KAAK,EAAE,GAAG,GACb"
+}
